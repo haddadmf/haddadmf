@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a second year computer science student at Saddleback College with strong interests in Machine Learning and AI development.<br>
+Computer Science undergraduate with strong skills in Object-Oriented Programming, Data Structures, and Web Development, eager to learn more about Machine Learning and AI development.
 
 
 # 💻 Tech Stack:
