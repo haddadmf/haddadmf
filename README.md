@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate at the University of California, Irvine. Strong skills in Object-Oriented Programming, Data Structures, and Web Development, eager to learn more about Computer Vision, Machine Learning and AI development.
+Computer Science undergraduate at the University of California, Irvine. Strong skills in Object-Oriented Programming, Embedded Systems, Data Structures, and Web Development, eager to learn more about Computer Vision, Machine Learning and AI development.
 
 
 # 💻 Tech Stack:
